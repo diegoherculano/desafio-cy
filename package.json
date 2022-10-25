@@ -1,0 +1,24 @@
+{
+  "name": "desafio-cy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwelf/desafio-cy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwelf/desafio-cy/issues"
+  },
+  "homepage": "https://github.com/kwelf/desafio-cy#readme",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}

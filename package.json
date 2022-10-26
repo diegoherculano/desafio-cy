@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kwelf/desafio-cy#readme",
   "devDependencies": {
-    "cypress": "^10.10.0"
+    "cypress": "^10.10.0",
+    "uuid": "^9.0.0"
   }
 }
